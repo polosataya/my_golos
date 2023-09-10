@@ -9,4 +9,8 @@ train_model.ipynb
 Команда для запуска приложения:
 streamlit run Мой_голос.py
 
+Результат работы модели на неразеченных данных в папке result:
+all_predict.csv
+
+
 
